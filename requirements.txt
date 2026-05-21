@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+streamlit
+langchain
+langchain-community
+llama-index
+faiss-cpu
+pandas
+numpy
+scikit-learn
+ollama

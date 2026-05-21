@@ -1,0 +1,95 @@
+# -----------------------------
+# Python cache
+# -----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# -----------------------------
+# Virtual environments
+# -----------------------------
+venv/
+env/
+multi_agent/
+.venv/
+*.env
+
+# -----------------------------
+# OS files
+# -----------------------------
+.DS_Store
+Thumbs.db
+
+# -----------------------------
+# IDE / Editor files
+# -----------------------------
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# -----------------------------
+# Logs & temp
+# -----------------------------
+*.log
+*.tmp
+*.bak
+
+# -----------------------------
+# Jupyter notebooks
+# -----------------------------
+.ipynb_checkpoints/
+
+# -----------------------------
+# Vector DB / FAISS files
+# -----------------------------
+vectorstore/
+*.index
+*.pkl
+*.faiss
+
+# -----------------------------
+# ML / model artifacts
+# -----------------------------
+*.h5
+*.pt
+*.pth
+*.onnx
+
+# -----------------------------
+# Large model downloads (Sentence Transformers)
+# -----------------------------
+.cache/
+models/
+hf_cache/
+huggingface/
+
+# -----------------------------
+# Data files (optional)
+# -----------------------------
+# Uncomment if needed
+# data/raw/*.txt
+# data/processed/
+
+# -----------------------------
+# Environment variables
+# -----------------------------
+.env
+
+# -----------------------------
+# Streamlit
+# -----------------------------
+.streamlit/
+
+# -----------------------------
+# Build / packaging
+# -----------------------------
+build/
+dist/
+*.egg-info/
+
+# -----------------------------
+# Coverage
+# -----------------------------
+.coverage
+htmlcov/

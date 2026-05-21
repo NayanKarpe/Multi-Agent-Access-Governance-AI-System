@@ -1,0 +1,5 @@
+User1 has Admin access to Finance App
+User2 has Viewer access to HR App
+User3 has Admin and Developer access to all streams
+User4 has Read-only access to Sales App
+User5 has Admin access to HR and Finance
