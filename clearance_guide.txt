@@ -1,0 +1,105 @@
+Hi Nayan Karpe,
+
+Given below are the transfer guidelines and information which will help you in completing the clearances activities smoothly.
+
+You need to obtain following clearances in ECMS
+
+
+
+Type of Clearance	Details
+Asset Management	
+IT Asset Clearance will be provided only on one day prior to transfer date after all asset surrender / transferred.
+Timing for Asset transfer clearance : 2 PM to 4PM
+
+Before approaching for clearance please ensure Laptops/Desktops, Safe word token, Black berry (as applicable) or any other IT assets needs to be surrendered by raising surrender ticket in India Service Desk portal at least 2 days prior to transfer date..
+
+Please ensure that you follow-up for asset surrender/transfer with the person handling your ticket.
+
+For Transfer of asset (desktop/laptop) please initiate the process along with necessary approvals at least 3 days before transfer date to avoid any delays/Hassles
+
+IT Asset clearance will be provided only if asset(s) owned by you is surrendered/Transferred, ensure asset is untagged and your tickets is closed before approaching for clearance.
+
+NOTE:- Please ensure while surrendering, the Laptop is in good condition. If any damage kindly get it repaired by raising remedy request well in advance to avoid any last minute delay. Recovery will be initiated if surrender asset is in damaged condition.
+
+"As a process, without following above mentioned steps, it would delay in your Transfer clearance.
+
+" Kindly refer below process document for Desktop/Laptop Transfer and Surrender process available in Talent portal:
+
+Laptop Allocation, Transfer and Surrender Process
+
+Desktop Allocation, Transfer and Surrender Process
+
+People Manager Clearance	Your People Manager has to provide the clearance in ECMS
+ICRES	
+Please handover your drawer keys, access card, Bus Pass (if applicable) to the ICRES team one day prior to transfer date.
+
+Learning and Development	L&D – Library - Library Books should be returned at least 3 days prior to the transfer date. For any queries or concerns, please contact Library SPOC.
+
+L&D certification - Please get in touch with the L&D certification clearance representatives. The list of such representatives is available on ECMS - Contact list
+Time Helpdesk	
+ACIS employees needs to ensure that in India Timecard Application Portal, last 6 months till one day prior to transfer date in Current location timecard status should be in “Approved” status. Post which Supervisor can provide Time clearance in ECMS portal.      
+
+ 
+
+1.In case of any technical related queries in ECMS portal raise the ticket through ITSM Portal : India Service Desk – Click on Browse categories – Employee Management- ECMS- Select appropriate category
+2.In case of any technical related queries in India Timecard Application Portal raise the ticket through ITSM Portal: India Service Desk – Click on Browse categories – Finance Applications – Timecard(Finance) - Select appropriate category
+
+  
+
+
+FS/BSv employees should ensure that all the Clarity Timesheets are approved by Supervisor till one day prior to transfer date in clarity system for any technical issues please reach out to cgbsil-clarity.in@capgemini.com .Note: Supervisor Clearance is mandatory to provide Time Helpdesk clearance
+
+In case of any functional related queries in India Timecard Application Portal raise the ticket through ITSM Portal : India Service Desk – Click on Browse categories – Finance Support – MTS Clearance - Select appropriate category
+
+Please do not reply directly to this email as this is an automated email and will not acknowledge any responses made directly to this message.
+
+Regards,
+HRSS Transfer Team
+
+Dear Colleague,
+
+We hereby allocate an Exit Management SPOC – Angel D < angel.a.d@capgemini.com > who will help you in completing your clearance process smoothly.
+
+The SPOC will also help you understand the FnF process and guide on retirals like PF and Gratuity.
+
+You can also reach out to Angel at your convenience and seek clarity as required.
+
+Hi  Nayan Karpe ,
+
+Time Helpdesk Clearance is completed in ECMS.
+
+If you are holding any recoveries or negative settlement amount, please transfer the amount using the details below and send the transaction screenshot along with emp id & name to DL IN Central Exit centralexit.in@capgemini.com on or before your last working day.
+
+
+
+Fund Transfer type :	RTGS / NEFT only
+Beneficiary Name:	Capgemini Technology Services India Ltd.
+Bank Name :	BNP Paribas
+IFSC :	BNPA0009009
+Bank Address :	BNP Paribas House, 1 North Avenue, Maker Maxity, Bandra Kurla Complex, Bandra East, Mumbai 400 051
+Account Type :	Current Account
+Bank Account Number:	CAPGEMEXITEMPLOYEE ID NUMBER
+Note:
+
+Bank Account number is combination of “CAPGEMEXIT” fix words, without space, adding Employee Number.
+For Eg. If Natasha Shahane having her Employee ID 12345 then account number for transferring fund is CAPGEMEXIT12345
+For Eg. If Natasha Shahane having her Employee ID 012345 then account number for transferring fund is CAPGEMEXIT012345
+If the payment is confirmed before 6 PM, we will acknowledge receipt by the end of the next day. Payments made after 6 PM will be confirmed after 2 days.
+If there is no response or payment done within 2 working days, case will be closed for full and final settlement, which could take within 30 days to complete & letters will be released afterward, provided the due amount has been fully recovered, resulting in a positive FnF.
+Relieving/Experience letter will only be issued once confirmation of the payment is received by DL IN Central Exit at centralexit.in@capgemini.com.
+For further information regarding the recovery, please contact DL IN Central Exit at centralexit.in@capgemini.com.
+ECMS Useful Links: ECMS
+
+Exit Orientation Link Details:
+
+As part of exit formalities, we will be conducting the Orientation session thrice a week [Every Tuesday, Wednesday, and Thursday] from 3:00 PM – 5:00 PM to address any queries you may have.
+
+Please click the link below to join the session.
+• Click here to join the meeting
+
+Note: This meeting is recurring session and employee can join for the meeting till their last working day excluding Public and Location holiday.
+
+Please do not reply to this automated message. You will not get any acknowledgement or response.
+
+Regards,
+HRSS GetONWARDS Team
