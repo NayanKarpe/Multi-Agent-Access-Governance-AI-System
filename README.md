@@ -1,7 +1,3 @@
-# Multi-Agent-Access-Governance-AI-System
-A multi-agent AI system built with LangGraph, LLaMA, and FAISS that automates enterprise access risk governance. Uses RAG pipelines + ML anomaly detection to flag high-risk users with ~80% accuracy — reducing manual audit time by 60%.
-
-
 # Multi-Agent Access Governance AI System
 
 A production-grade, multi-agent AI system that automates enterprise access risk analysis using LangGraph, LLaMA, FAISS, and RAG-based anomaly detection. Designed to replace fully manual IAM (Identity and Access Management) audit processes with intelligent, explainable AI decisions.
