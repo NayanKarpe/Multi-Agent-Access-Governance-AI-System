@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Multi-Agent-Access-Governance-AI-System
-=======
 # Multi-Agent Access Governance AI System
 
 A production-grade, multi-agent AI system that automates enterprise access risk analysis using LangGraph, LLaMA, FAISS, and RAG-based anomaly detection. Designed to replace fully manual IAM (Identity and Access Management) audit processes with intelligent, explainable AI decisions.
@@ -202,4 +199,3 @@ MIT License — see [LICENSE](LICENSE) for details.
 ---
 
 > ⭐ If this project helped or inspired you, consider giving it a star!
->>>>>>> 0cf828f40858d963eb1f6d54b54f97ddeed59e4c
